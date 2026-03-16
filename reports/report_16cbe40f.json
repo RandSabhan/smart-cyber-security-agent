@@ -1,0 +1,10 @@
+{
+    "file_name": "test.exe",
+    "file_size": 1709672,
+    "sha256": "16cbe40fb24ce2d422afddb5a90a5801ced32ef52c22c2fc77b25a90837f28ad",
+    "scan_time": "2026-03-16T12:34:05.368197",
+    "yara_matches": [],
+    "is_pe": true,
+    "sections": 10,
+    "suspicious": true
+}
