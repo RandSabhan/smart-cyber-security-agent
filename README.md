@@ -13,3 +13,16 @@ Metasploitable
 Kali Linux
 n8n
 scikit-learn
+
+## Project Structure
+
+smart-cyber-security-agent
+│
+├── static_analysis
+├── dynamic_analysis
+├── ml_models
+├── api
+├── samples
+├── reports
+
+
